@@ -9,3 +9,6 @@ time,recording,result,p_fatigue,hr,rmssd,beat_match
 2026-11-11T22:08:06,fatigue/fourth_attempt.csv,FATIGUE,0.792,107.3,7.8,0.995
 2026-11-11T22:08:10,fatigue/second_attempt.csv,FATIGUE,0.879,104.6,5.4,0.996
 2026-11-11T22:08:14,fatigue/third_attempt.csv,NORMAL,0.482,108.0,7.0,0.996
+2026-11-11T23:25:43,fatigue/third_attempt.csv,NORMAL,0.482,108.0,7.0,0.996
+2026-11-11T23:25:48,fatigue/fifth_attempt.csv,FATIGUE,0.964,94.1,17.5,0.996
+2026-11-12T15:16:29,fatigue/fifth_attempt.csv,FATIGUE,0.964,94.1,17.5,0.996
